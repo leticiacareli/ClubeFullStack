@@ -1,3 +1,1 @@
 <?php
-
-require 'bootstrap.php';
