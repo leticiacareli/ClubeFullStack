@@ -1,0 +1,15 @@
+{
+    "name": "letic/shopping-cart",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leticiacareli",
+            "email": "leticia_careli@hotmail.com"
+        }
+    ],
+    "require": {}
+}
