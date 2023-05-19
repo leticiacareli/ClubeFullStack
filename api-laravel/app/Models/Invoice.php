@@ -22,4 +22,8 @@ class Invoice extends Model
         'value',
         'payment_date',
     ];
+
+    public function user(){
+        return $this->belongsTo(User::class);
+    }
 }
